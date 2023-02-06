@@ -1,0 +1,470 @@
+
+Q::Do you have a valid driver's license? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Use Case? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Salesforce.com? ::fb-single-line-text
+Q::How many years of work experience do you have with Amazon Web Services (AWS)? ::fb-single-line-text
+Q::experience in automated and manual testing in salesforce.com Sales or Service Clouds ::fb-dropdown::['', 'Yes', 'No']
+Q::if your work authorization is USC/GC then mark yes ::fb-dropdown::['', 'Yes', 'No']
+Q::this position only for self corp or independent consultant, if you are comfortable then mark yes. ::fb-dropdown::['', 'Yes', 'No']
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::This is day 1 onsite role in Denver,-CO(Can you relocate?) ::fb-dropdown::['', 'Yes', 'No']
+Q::Qualified candidates must possess an active TS/SCI clearance to be considered. Do you meet this requirement? ::fb-dropdown::['', 'Yes', 'No']
+Q::Qualified candidates must possess an active TS/SCI clearance to be considered. Do you meet this requirement? ::fb-dropdown::['', 'Yes', 'No']
+Q::Are you comfortable working in an onsite setting? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with SQL? ::fb-single-line-text
+Q::How many years of work experience do you have with REST APIs? ::fb-single-line-text
+Q::Are you comfortable working in a hybrid setting? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Software Testing? ::fb-single-line-text
+Q::Are you comfortable commuting to this job's location? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you comfortable working in a hybrid setting? ::fb-radio-buttons::['Yes', 'No']
+Q::Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? ::fb-radio-buttons::['Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Subversion? ::fb-single-line-text
+Q::How many years experience in software Testing? ::fb-single-line-text
+Q::How many years of expereince in gaming environment? ::fb-single-line-text
+Q::Have you got any experience in testing virtual reality products? ::fb-single-line-text
+Q::Are you willing to work on redmond office once selection? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with JavaScript? ::fb-single-line-text
+Q::Are you comfortable commuting to this job's location? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Jenkins? ::fb-single-line-text
+Q::How many years of work experience do you have with Database Testing? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium Testing? ::fb-single-line-text
+Q::How many years of work experience do you have with Core Java? ::fb-single-line-text
+Q::How many years of work experience do you have with API Testing? ::fb-single-line-text
+Q::Have you built automation framework from scratch? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with JSON? ::fb-single-line-text
+Q::How many years of work experience do you have with HTML? ::fb-single-line-text
+Q::What is your notice Period ? ::fb-single-line-text
+Q::How many years of work experience do you have with Jenkins? ::fb-single-line-text
+Q::How many years of work experience do you have with Database Testing? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium Testing? ::fb-single-line-text
+Q::How many years of work experience do you have with Core Java? ::fb-single-line-text
+Q::How many years of work experience do you have with API Testing? ::fb-single-line-text
+Q::Have you built automation framework from scratch? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with JSON? ::fb-single-line-text
+Q::How many years of work experience do you have with HTML? ::fb-single-line-text
+Q::What is your notice Period ? ::fb-single-line-text
+Q::How many years of work experience do you have with Jenkins? ::fb-single-line-text
+Q::How many years of work experience do you have with Database Testing? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium Testing? ::fb-single-line-text
+Q::How many years of work experience do you have with Core Java? ::fb-single-line-text
+Q::How many years of work experience do you have with API Testing? ::fb-single-line-text
+Q::Have you built automation framework from scratch? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with HP Products? ::fb-single-line-text
+Q::How many years of work experience do you have with Jenkins? ::fb-single-line-text
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with C#? ::fb-single-line-text
+Q::How many years of work experience do you have with HP Products? ::fb-single-line-text
+Q::How many years of work experience do you have with Jenkins? ::fb-single-line-text
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::How many years of work experience do you have with SQL? ::fb-single-line-text
+Q::How many years of work experience do you have using Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have using Java? ::fb-single-line-text
+Q::How many years of work experience do you have using JUnit? ::fb-single-line-text
+Q::How many years of work experience do you have using Jenkins? ::fb-single-line-text
+Q::How many years of work experience do you have using Test Management? ::fb-single-line-text
+Q::How many years of work experience do you have using Jira? ::fb-single-line-text
+Q::On-site work location can be either Sacramento or San Fracisco offices. Will you agree to 3 days per week on-site for one of these sites? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of experience do you have in testing/QA ::fb-single-line-text
+Q::How many years of experience do you have with the Oracle RMS application? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::Can you work on w2? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with Test Automation? ::fb-single-line-text
+Q::Are you open for a W2 contract? ::fb-dropdown::['', 'Yes', 'No']
+Q::Do you have experience with UFT (used to be QTP)? ::fb-dropdown::['', 'Yes', 'No']
+Q::Do you have experience working with App Dev and Data warehouse teams? ::fb-dropdown::['', 'Yes', 'No']
+Q::Do you have experience creating frame work for automation testing? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with C#? ::fb-single-line-text
+Q::How many years of work experience do you have with Microsoft Azure? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with HP QuickTest Professional (QTP)? ::fb-single-line-text
+Q::How many years of work experience do you have with Functional Requirements? ::fb-single-line-text
+Q::Are you open to work on Aditi"s W2 ::fb-dropdown::['', 'Yes', 'No']
+Q::How much experience do you have on Automation Testing? ::fb-single-line-text
+Q::How many years of work experience do you have with SAP Products? ::fb-single-line-text
+Q::are you open to work onsite every Wednesday in Moline, IL ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::How many years of work experience do you have with Jira? ::fb-single-line-text
+Q::How many years of work experience do you have with C#? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have with Swift (Programming Language)? ::fb-single-line-text
+Q::XCUI Test ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Test Automation Tools? ::fb-single-line-text
+Q::How many years of work experience do you have with Quality Control? ::fb-single-line-text
+Q::How many years of work experience do you have with Testing Tools? ::fb-single-line-text
+Q::Experience testing for a health and human services project, Do you have it ? ::fb-dropdown::['', 'Yes', 'No']
+Q::Do you have experience with Agile (Scrum, Kanban, or SAFe) development ? ::fb-dropdown::['', 'Yes', 'No']
+Q::Do you have experience with continuous integration tools such as JENKINS or Team city ? ::fb-dropdown::['', 'Yes', 'No']
+Q::Do you have Hands on Experience and solid scripting knowledge in 1 or more of these like Java or C++ or Python, JavaScript ? ::fb-dropdown::['', 'Yes', 'No']
+Q::Do you have Tosca AS 1 & AS 2 Certifications ? ::fb-dropdown::['', 'Yes', 'No']
+Q::Are you local to Raleigh, North Carolina ? ::fb-dropdown::['', 'Yes', 'No']
+Q::If you are non-local, are you willing to work from Remote to onsite ? ::fb-dropdown::['', 'Yes', 'No']
+Q::if you are local to north carolina, Are you willing to work remote to onsite ? ::fb-dropdown::['', 'Yes', 'No']
+Q::Do you experience working with state or government client ? ::fb-dropdown::['', 'Yes', 'No']
+Q::Do you have Experience testing for a health and human services project ? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with SQL? ::fb-single-line-text
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::Are you able to work onsite in Wooster, Ohio? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with QPT/UFT? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of experience do you have with Automation Testing? ::fb-single-line-text
+Q::How many years of work experience do you have with SAP Products? ::fb-single-line-text
+Q::S4 Hana functional knowledge/AR Project Accounting ::fb-dropdown::['', 'Yes', 'No']
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Test Design? ::fb-single-line-text
+Q::How many years of work experience do you have with Test Suites? ::fb-single-line-text
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with HP QuickTest Professional (QTP)? ::fb-single-line-text
+Q::How many years of work experience do you have with Microsoft Azure? ::fb-single-line-text
+Q::How many years of work experience do you have with pytest? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::How many years of work experience do you have with C#? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have with pytest? ::fb-single-line-text
+Q::How many years of work experience do you have with Financial Background? ::fb-single-line-text
+Q::How many years of work experience do you have with Test Automation? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium Testing? ::fb-single-line-text
+Q::How many years of work experience do you have with Jira? ::fb-single-line-text
+Q::How many years of hands-on experience do you have in QA/Automation Testing? ::fb-single-line-text
+Q::How many years of professional, hands-on experience do you have with Selenium, Java, and C#? ::fb-single-line-text
+Q::This is a hybrid position, with at least 1 day per week onsite required in Johnston, Rhode Island. Do you agree to this requirement? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with Red Hat Linux? ::fb-single-line-text
+Q::How many years of work experience do you have with Test Automation Tools? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::How many years of Quality Assurance experience do you currently have? ::fb-single-line-text
+Q::How many years of experience do you have writing SQL scripts to analyze data and perform specific data queries ? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::This position requires working on a W2 without an employer/sponsorship. Are you able to work INDEPENDENTLY on a W2 contract? (US Citizen, Greencard, EAD) ::fb-dropdown::['', 'Yes', 'No']
+Q::This job will be Hybrid/onsite in Atlanta, GA (30308 or 30309). Are you local to Atlanta, GA and have reliable transportation? ::fb-dropdown::['', 'Yes', 'No']
+Q::If you are local to Atlanta, GA and willing to work/commute onsite, are you able to conduct an IN-PERSON interview for this position? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of coding/scripting experience do you have in Java/Python? ::fb-single-line-text
+Q::How many years of experience do you have in writing selenium scripts? ::fb-single-line-text
+Q::How many years of hands-on Automation/Testing experience do you have? ::fb-single-line-text
+Q::How many years of experience do you have with UI and database testing? ::fb-single-line-text
+Q::How many years of work experience do you have with HP QuickTest Professional (QTP)? ::fb-single-line-text
+Q::How many years of work experience do you have with Microsoft Azure? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with C#? ::fb-single-line-text
+Q::How many years of work experience do you have with .NET Framework? ::fb-single-line-text
+Q::Are you comfortable working in an onsite setting? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you ready to go Day 1 Onsite Client Location? ::fb-dropdown::['', 'Yes', 'No']
+Q::Do you have, or are you able to obtain a DOD Secret Clearance ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with Microsoft Azure? ::fb-single-line-text
+Q::How many years of work experience do you have with Dynamics? ::fb-single-line-text
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::CUCUMBER ::fb-single-line-text
+Q::ATM TESTING ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::Are you comfortable working in a hybrid setting? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you comfortable working in an onsite setting? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you willing to work on W2? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have using Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have using SQL? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Adobe InDesign? ::fb-single-line-text
+Q::How many years of work experience do you have with SoapUI? ::fb-single-line-text
+Q::How many years of work experience do you have with Cypress? ::fb-single-line-text
+Q::How many years of Engineering experience do you currently have? ::fb-single-line-text
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::Do you have experience on Quality Center ? ::fb-dropdown::['', 'Yes', 'No']
+Q::Are you open to work on w2? ::fb-dropdown::['', 'Yes', 'No']
+Q::Are you open to work onsite from day 1 at Columbia, SC? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with Microsoft Azure? ::fb-single-line-text
+Q::How many years of work experience do you have with Git? ::fb-single-line-text
+Q::How many years of work experience do you have with JSON? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with C#? ::fb-single-line-text
+Q::How many years of work experience do you have with Microsoft SQL Server? ::fb-single-line-text
+Q::Do you live in Austin, TX? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of Oracle Cloud ERP testing? ::fb-single-line-text
+Q::How many years experience with Eggplant software automation tool ? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::Are you comfortable working in a hybrid setting? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you comfortable working in an onsite setting? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::How many years of work experience do you have with Jenkins? ::fb-single-line-text
+Q::How many years of work experience do you have with SQL? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have with QA Automation? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Windows? ::fb-single-line-text
+Q::How many years of work experience do you have with Bootstrap? ::fb-single-line-text
+Q::How many years of work experience do you have using SQL? ::fb-single-line-text
+Q::How many years of work experience do you have using Test Automation? ::fb-single-line-text
+Q::How many years of work experience do you have using Tricentis Tosca? ::fb-single-line-text
+Q::How many years of work experience do you have using Ruby? ::fb-single-line-text
+Q::How many years of work experience do you have with C#? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium Testing? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium Testing? ::fb-single-line-text
+Q::How many years of Government Relations Services experience do you currently have? ::fb-single-line-text
+Q::How many years of work experience do you have with Tableau? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of professional work experience do you have with Cypress, Selenium, and Appium ::fb-single-line-text
+Q::How many years of professional work experience do you have with Snowflake, Stitch, Kafka, Hightouch, Sigma, Terraform and other data specific tools and applications ::fb-single-line-text
+Q::How many years of professional work experience do you have with BigQuery, RedShift, Databricks or SingleStore ::fb-single-line-text
+Q::How many years of professional work experience do you have with PostgreSQL ::fb-single-line-text
+Q::How many years of professional work experience do you have with Looker, Sigma, Tableau or Mode ::fb-single-line-text
+Q::Have you mentored engineering team members with a quality mindset ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of Information Technology experience do you currently have? ::fb-single-line-text
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with ETL Testing? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of professional work experience do you have with Typescript ::fb-single-line-text
+Q::How many years of professional work experience do you have with Golang ::fb-single-line-text
+Q::How many years of work experience do you have with C#? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::Do you have any experience with fixed income and bond trading systems ? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with HP Quality Center? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with HP Quality Center? ::fb-single-line-text
+Q::Mainframe ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Test Management? ::fb-single-line-text
+Q::How many years of work experience do you have with Test Automation? ::fb-single-line-text
+Q::Are you comfortable working in an onsite setting? ::fb-radio-buttons::['Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Test Automation? ::fb-single-line-text
+Q::How many years of work experience do you have with Banking? ::fb-single-line-text
+Q::How many years of work experience do you have with API Testing? ::fb-single-line-text
+Q::Are you comfortable working in an onsite setting? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of Quality Assurance experience do you currently have? ::fb-single-line-text
+Q::How many years of work experience do you have with ETL Testing? ::fb-single-line-text
+Q::How many years of experience do you have in Automated testing? ::fb-single-line-text
+Q::Do you hold a Bachelor’s degree (or higher) in Information Technology, Computer Science or in a related field? ::fb-dropdown::['', 'Yes', 'No']
+Q::Do you have payment experience? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of experience do you have working with Java or Python? ::fb-single-line-text
+Q::How many years of experience do you have working with Linux? ::fb-single-line-text
+Q::Are you prepared to work onsite in Manhattan? ::fb-dropdown::['', 'Yes', 'No']
+Q::How many years of work experience do you have with HP Products? ::fb-single-line-text
+Q::How many years of work experience do you have with Jenkins? ::fb-single-line-text
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::How many years of work experience do you have with HP Products? ::fb-single-line-text
+Q::How many years of work experience do you have with Jenkins? ::fb-single-line-text
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::Are you open for relocation? Long term travelling? ::fb-dropdown::['Select an option', 'Yes to relocation and long term travelling', 'Yes to long term travelling', 'Yes to relocation everywhere', 'Yes to relocation only certain areas', 'No']
+Q::What is your availability to start? ::fb-dropdown::['Select an option', 'Immediate', 'Less than 1 week', '1-2 weeks', '2-3 weeks', '3+ weeks']
+Q::What is your location? ::fb-dropdown::['Select an option', 'USA', 'UK', 'India', 'Israel', 'Other location', 'Romania']
+Q::What is your native language (mother tongue, other than English)? Please select one. ::fb-dropdown::['Select an option', 'Arabic', 'Bengali', 'Portuguese', 'Bulgarian', 'Cantonese', 'Danish', 'Dutch', 'Filipino', 'Finnish', 'French', 'German', 'Gujarati', 'Hebrew', 'Hindi', 'Hungarian', 'Indonesian', 'Italian', 'Japanese', 'Kannada', 'Korean', 'Kyrgyz', 'Malayalam', 'Mandarin', 'Marathi', 'Nigeria', 'Norwegian', 'Persian', 'Polish', 'Portuguese', 'Russian', 'Spanish', 'Swedish', 'Tagalog', 'Tamil', 'Telugu', 'Thai', 'Turkish', 'Ukrainian', 'Urdu', 'Vietnamese', 'None']
+Q::Are you open for relocation? Long term travelling? ::fb-dropdown::['Select an option', 'Yes to relocation and long term travelling', 'Yes to long term travelling', 'Yes to relocation everywhere', 'Yes to relocation only certain areas', 'No']
+Q::What is your availability to start? ::fb-dropdown::['Select an option', 'Immediate', 'Less than 1 week', '1-2 weeks', '2-3 weeks', '3+ weeks']
+Q::What is your location? ::fb-dropdown::['Select an option', 'USA', 'UK', 'India', 'Israel', 'Other location', 'Romania']
+Q::What is your native language (mother tongue, other than English)? Please select one. ::fb-dropdown::['Select an option', 'Arabic', 'Bengali', 'Portuguese', 'Bulgarian', 'Cantonese', 'Danish', 'Dutch', 'Filipino', 'Finnish', 'French', 'German', 'Gujarati', 'Hebrew', 'Hindi', 'Hungarian', 'Indonesian', 'Italian', 'Japanese', 'Kannada', 'Korean', 'Kyrgyz', 'Malayalam', 'Mandarin', 'Marathi', 'Nigeria', 'Norwegian', 'Persian', 'Polish', 'Portuguese', 'Russian', 'Spanish', 'Swedish', 'Tagalog', 'Tamil', 'Telugu', 'Thai', 'Turkish', 'Ukrainian', 'Urdu', 'Vietnamese', 'None']
+Q::Agree to receive occasional email updates from Qualitest. Your consent is voluntary. Please view our Privacy Policy: https://www.qualitestgroup.com/about-us/privacy-policy/ and our Terms and Conditions: https://www.qualitestgroup.com/about-us/terms-conditions/ You have the right to unsubscribe and withdraw your consent at any time. ::fb-radio-buttons::['Yes', 'No']
+Q::Will you require sponsorship now or in the future? ::fb-dropdown::['Select an option', 'Yes, immediate sponsorship (H1B)', 'Yes, in the future (OPT, CPT, H4, L2, etc..)', 'No (Citizen, Green Card, Permanent Resident)']
+Q::Do you have either API / Backend testing experience or Mobile automation experience with Swift/Appium? ::fb-radio-buttons::['Yes', 'No']
+Q::What is your availability to start? ::fb-dropdown::['Select an option', 'Immediate', 'Less than 1 week', '1-2 weeks', '2-3 weeks', '3+ weeks']
+Q::What is your native language (mother tongue, other than English)? Please select one. ::fb-dropdown::['Select an option', 'Arabic', 'Bengali', 'Portuguese', 'Bulgarian', 'Cantonese', 'Danish', 'Dutch', 'Filipino', 'Finnish', 'French', 'German', 'Gujarati', 'Hebrew', 'Hindi', 'Hungarian', 'Indonesian', 'Italian', 'Japanese', 'Kannada', 'Korean', 'Kyrgyz', 'Malayalam', 'Mandarin', 'Marathi', 'Nigeria', 'Norwegian', 'Persian', 'Polish', 'Portuguese', 'Russian', 'Spanish', 'Swedish', 'Tagalog', 'Tamil', 'Telugu', 'Thai', 'Turkish', 'Ukrainian', 'Urdu', 'Vietnamese', 'None']
+Q::Agree to receive occasional email updates from Qualitest. Your consent is voluntary. Please view our Privacy Policy: https://www.qualitestgroup.com/about-us/privacy-policy/ and our Terms and Conditions: https://www.qualitestgroup.com/about-us/terms-conditions/ You have the right to unsubscribe and withdraw your consent at any time. ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with C#? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::How many years of work experience do you have with Databases? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of Telecommunications experience do you currently have? ::fb-single-line-text
+Q::How many years of work experience do you have with Databases? ::fb-single-line-text
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Databases? ::fb-single-line-text
+Q::How many years of work experience do you have with Databases? ::fb-single-line-text
+Q::How many years of work experience do you have with Databases? ::fb-single-line-text
+Q::How many years of work experience do you have with Databases? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have with JavaScript? ::fb-single-line-text
+Q::How many years of work experience do you have with Databases? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have with JavaScript? ::fb-single-line-text
+Q::How many years of work experience do you have with Databases? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have with JavaScript? ::fb-single-line-text
+Q::Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you legally authorized to work in the United States? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have with Jira? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have with Amazon S3? ::fb-single-line-text
+Q::Do you have a BS in Comp-Sci or a related field, or equivalent applicable industry experience and at least 2 years employment experience? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Do you have experience programming tests in one or more of the following languages, C++, JavaScript, Python? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Do you have experience with version control tools: Git, GitHub/GitLab, or similar? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Do you have experience with unit and testing frameworks, such as gtest, pytest, etc. and general knowledge of QA best practices? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Are able to work on-site in our San Antonio, TX or Boulder, CO facilities? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of experience do you have with automation testing using Selenium WebDriver? ::fb-single-line-text
+Q::How many years of software testing experience do you have? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years experience with test automation using modern tools and programming languages? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Jenkins? ::fb-single-line-text
+Q::How many years of work experience do you have with RESTful WebServices? ::fb-single-line-text
+Q::How many years of work experience do you have with Amazon Web Services (AWS)? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::Do you have a BS in Comp-Sci or a related field, or equivalent applicable industry experience and at least 2 years employment experience? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Do you have experience programming tests in one or more of the following languages, C++, JavaScript, Python? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Do you have experience with version control tools: Git, GitHub/GitLab, or similar? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Do you have experience with unit and testing frameworks, such as gtest, pytest, etc. and general knowledge of QA best practices? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Are able to work on-site in our San Antonio, TX or Boulder, CO facilities? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Are you legally authorized to work in the United States? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you legally authorized to work in the United States? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Ticket Operations? ::fb-single-line-text
+Q::How many years of work experience do you have with Bug Tracking? ::fb-single-line-text
+Q::How many years of work experience do you have with Scripting? ::fb-single-line-text
+Q::How many years of Automotive experience do you currently have? ::fb-single-line-text
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Bash? ::fb-single-line-text
+Q::How many years of work experience do you have with Linux? ::fb-single-line-text
+Q::Are you a US Citizen or Green Card? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::How much testing background do you have? ::fb-single-line-text
+Q::How many years of work experience do you have using NI LabVIEW? ::fb-single-line-text
+Q::How many years of work experience do you have using Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have using C++? ::fb-single-line-text
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you comfortable working in an onsite setting? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you legally authorized to work in the United States? ::fb-radio-buttons::['Yes', 'No']
+Q::Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with C#? ::fb-single-line-text
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you comfortable working in a hybrid setting? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you legally authorized to work in the United States? ::fb-radio-buttons::['Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have with C ::fb-single-line-text
+Q::How many years of experience do you have with C++ ::fb-single-line-text
+Q::How many years of automated testing do you have? ::fb-single-line-text
+Q::Are you legally authorized to work in the United States? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Amazon Web Services (AWS)? ::fb-single-line-text
+Q::Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you legally authorized to work in the United States? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with JavaScript? ::fb-single-line-text
+Q::Are you comfortable commuting to this job's location? ::fb-radio-buttons::['Yes', 'No']
+Q::Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you comfortable working in a hybrid setting? ::fb-radio-buttons::['Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you willing to undergo a background check, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you comfortable commuting to this job's location? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Embedded Systems? ::fb-single-line-text
+Q::Are you comfortable working in an onsite setting? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you comfortable commuting to this job's location? ::fb-radio-buttons::['Yes', 'No']
+Q::Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with MySQL? ::fb-single-line-text
+Q::How many years of work experience do you have with Linux? ::fb-single-line-text
+Q::How many years of work experience do you have with VMware? ::fb-single-line-text
+Q::How much experience do you have in Test automation using tools like Selenium, JMeter, etc? ::fb-single-line-text
+Q::What is your total experience in a QA role? ::fb-single-line-text
+Q::How many years of work experience do you have with Test Automation? ::fb-single-line-text
+Q::How many years of work experience do you have with Database Testing? ::fb-single-line-text
+Q::How many years of work experience do you have with ETL Testing? ::fb-single-line-text
+Q::How many years of experience do you have with Python Testing? ::fb-single-line-text
+Q::How many years of work experience do you have with Django? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::What is your level of proficiency in English? ::fb-dropdown::['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+Q::Are you comfortable working in a remote setting? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Open Source Software? ::fb-single-line-text
+Q::Have you contributed to an open source project? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Have you done any project on Big Data? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Have you work on any hobby projects ? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::How much time spend in Coding in current projects in a day? ::fb-single-line-text
+Q::Are you willing to take a drug test, in accordance with local law/regulations? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Selenium? ::fb-single-line-text
+Q::How many years of work experience do you have with Maven? ::fb-single-line-text
+Q::How many years of work experience do you have with Flask? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::How many years of work experience do you have with Java? ::fb-single-line-text
+Q::How many years of work experience do you have in DevOps ? ::fb-single-line-text
+Q::Do you have work experience in Kubernetes ? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Do you have work experience in Docker ? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Do you have work experience in Git ? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Are you open to work from office ( WFO ) in Pune location for 5 Days a week ? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Have you completed the following level of education: Bachelor's Degree? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Kubernetes? ::fb-single-line-text
+Q::How many years of work experience do you have with Microservices? ::fb-single-line-text
+Q::How many years of work experience do you have with Continuous Integration and Continuous Delivery (CI/CD)? ::fb-single-line-text
+Q::How many years of work experience do you have as Site Reliability Engineer (SRE)/ DevOps Engineer? ::fb-single-line-text
+Q::How many years of work experience do you have with Django? ::fb-single-line-text
+Q::How many years of work experience do you have with Python (Programming Language)? ::fb-single-line-text
+Q::What is your level of proficiency in English? ::fb-dropdown::['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+Q::Are you comfortable working in a remote setting? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Open Source Software? ::fb-single-line-text
+Q::Have you contributed to an open source project? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Have you done any project on Big Data? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Have you work on any hobby projects ? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::How much time spend in Coding in current projects in a day? ::fb-single-line-text
+Q::We must fill this position urgently. Can you start immediately? ::fb-radio-buttons::['Yes', 'No']
+Q::Do you have any industry-recognized security-related certification like CEH,CISSP, GIAC etc? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::Do you have any experience with SOC2, ISO, VAPT etc? ::fb-dropdown::['Select an option', 'Yes', 'No']
+Q::We must fill this position urgently. Can you start immediately? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of work experience do you have with Django? ::fb-single-line-text
+Q::How many years of work experience do you have with React.js? ::fb-single-line-text
+Q::How many years of work experience do you have with Angular? ::fb-single-line-text
+Q::Are you comfortable working in an onsite setting? ::fb-radio-buttons::['Yes', 'No']
+Q::Are you comfortable commuting to this job's location? ::fb-radio-buttons::['Yes', 'No']
+Q::We must fill this position urgently. Can you start immediately? ::fb-radio-buttons::['Yes', 'No']
+Q::How many years of experience with product companies ::fb-single-line-text
+Q::How many years of experience working on python,Django/Ruby on rails? ::fb-single-line-text

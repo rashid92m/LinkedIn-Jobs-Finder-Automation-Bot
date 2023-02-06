@@ -1,0 +1,6 @@
+{company}---{job_title}---{location}---{workplace_type}---{job_type}---{employees_count_and_type}---{job_title_href}"
+SPS---Software Engineer - Security---India---Remote---Full-time · Associate---51-200 employees --- Staffing and Recruiting
+Signitives---Senior Software Engineer---Pune, Maharashtra, India---On-site---Full-time---11-50 employees--- IT Services and IT Consulting
+Nagarro---Senior Staff Engineer (Automation Testing)---India---Remote---Full-time · Mid-Senior level---10,001+ employees --- IT Services and IT Consulting
+Antal International---Staff backend engineer---India---Remote---Full-time---1,001-5,000 employees--- IT Services and IT Consulting
+Catenon India---Lead System Engineer---Pune, Maharashtra, India---On-site---Full-time · Mid-Senior level---51-200 employees --- Human Resources Services

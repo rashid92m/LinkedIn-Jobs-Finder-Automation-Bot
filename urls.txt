@@ -1,0 +1,7 @@
+
+# Add you URL/URLS of Linkedin requry
+https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20in%20test&location=Berlin%2C%20Germany&refresh=true
+https://www.linkedin.com/jobs/search/?keywords=Software%20Development%20Engineer%20in%20Test%20&location=Berlin%2C%20Germany&refresh=true
+https://www.linkedin.com/jobs/search/?keywords=qa%20automation%20tester&location=Berlin%2C%20Germany&refresh=true
+
+
